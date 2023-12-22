@@ -1,1 +1,2 @@
-# Snake_Game
+# Snake_Games
+snake game using js 
